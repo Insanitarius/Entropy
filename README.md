@@ -1,6 +1,6 @@
 # Entropy
 Chat room
 
-To start the server use:
-npm install
-npm run dev
+To start the server use:<br />
+npm install<br />
+npm run dev<br />
